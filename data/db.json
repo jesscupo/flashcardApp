@@ -1,0 +1,66 @@
+{
+  "decks": [
+    {
+      "id": 11,
+      "name": "another testing12345",
+      "description": "123456"
+    },
+    {
+      "name": "heres a fake",
+      "description": "deck to add",
+      "id": 12
+    },
+    {
+      "name": "a deck",
+      "description": "is added",
+      "id": 13
+    },
+    {
+      "name": "new deck",
+      "description": "is here",
+      "id": 14
+    },
+    {
+      "name": "adding new",
+      "description": "deck to the list",
+      "id": 15
+    },
+    {
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation.",
+      "id": 16
+    }
+  ],
+  "cards": [
+    {
+      "front": "add",
+      "back": "cardst",
+      "deckId": 11,
+      "id": 7
+    },
+    {
+      "front": "NEW CARD",
+      "back": "to add here",
+      "deckId": 11,
+      "id": 10
+    },
+    {
+      "front": "adding",
+      "back": "test card",
+      "deckId": 11,
+      "id": 12
+    },
+    {
+      "front": "adding",
+      "back": "right now 945",
+      "deckId": 11,
+      "id": 13
+    },
+    {
+      "front": "is this",
+      "back": "a test",
+      "deckId": 11,
+      "id": 14
+    }
+  ]
+}
